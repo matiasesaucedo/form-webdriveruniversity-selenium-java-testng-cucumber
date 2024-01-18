@@ -4,6 +4,7 @@
 * Selenium
 * TestNG
 * Cucumber
+* Maven
 
 --------------------------------------------------------------------------------
 
@@ -12,3 +13,4 @@
 * Selenium
 * TestNG
 * Cucumber
+* Maven
